@@ -7,3 +7,4 @@ It uses an android mobile for voice recognition and through Bluetooth the info r
 
 We would also improve the scope by including sensors for the car to stop in case of an obstacle even without the interference of voice.
 
+Project Link - https://youtu.be/BG9rHEk4Kv8
